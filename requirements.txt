@@ -1,0 +1,6 @@
+pandas
+nltk
+wordcloud
+matplotlib
+groq
+python-dotenv
